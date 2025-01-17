@@ -1,0 +1,19 @@
+{
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-01-17 21:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2025-01-17 21:55:32 +0000",
+      "minecraft:dark_forest": "2025-01-17 21:52:28 +0000",
+      "minecraft:river": "2025-01-17 21:53:27 +0000",
+      "minecraft:swamp": "2025-01-17 21:54:47 +0000",
+      "minecraft:plains": "2025-01-17 21:53:30 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
