@@ -201,3 +201,27 @@ Reason: Banned by an operator.
 [22:28:48] [Server thread/INFO]: tobiaspro08 joined the game
 [22:29:04] [Server thread/INFO]: [Sukistron: Teleported SoyMrZaki to Sukistron]
 [22:29:26] [Server thread/INFO]: [tobiaspro08: Teleported tobiaspro08 to Sukistron]
+[22:31:26] [Server thread/INFO]: [Sukistron: Teleported SoyMrZaki to Sukistron]
+[22:31:29] [Server thread/INFO]: [tobiaspro08: Banned SoyMrZaki: Banned by an operator.]
+[22:31:29] [Server thread/INFO]: SoyMrZaki lost connection: You are banned from this server
+[22:31:29] [Server thread/INFO]: SoyMrZaki left the game
+[22:31:31] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6e4a386[id=04fcd958-7f7f-3823-ace3-d4ad268fd58b,name=SoyMrZaki,properties={},legacy=false] (/127.208.88.138:56095): You are banned from this server.
+Reason: Banned by an operator.
+[22:31:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@6e4a386[id=04fcd958-7f7f-3823-ace3-d4ad268fd58b,name=SoyMrZaki,properties={},legacy=false] (/127.208.88.138:56095) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[22:31:33] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@221690ae[id=04fcd958-7f7f-3823-ace3-d4ad268fd58b,name=SoyMrZaki,properties={},legacy=false] (/127.208.88.138:52271): You are banned from this server.
+Reason: Banned by an operator.
+[22:31:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@221690ae[id=04fcd958-7f7f-3823-ace3-d4ad268fd58b,name=SoyMrZaki,properties={},legacy=false] (/127.208.88.138:52271) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[22:31:54] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@52c065e3[id=04fcd958-7f7f-3823-ace3-d4ad268fd58b,name=SoyMrZaki,properties={},legacy=false] (/127.208.88.138:55187): You are banned from this server.
+Reason: Banned by an operator.
+[22:31:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@52c065e3[id=04fcd958-7f7f-3823-ace3-d4ad268fd58b,name=SoyMrZaki,properties={},legacy=false] (/127.208.88.138:55187) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[22:31:54] [Server thread/INFO]: [tobiaspro08: Unbanned SoyMrZaki]
+[22:33:15] [Server thread/INFO]: [tobiaspro08: Successfully filled 1 blocks]
+[22:36:26] [Server thread/INFO]: SoyMrZaki[/127.208.88.138:52373] logged in with entity id 10200 at (290.5010859925055, 144.88165420402996, -308.40156891760955)
+[22:36:26] [Server thread/INFO]: SoyMrZaki joined the game
+[22:40:15] [Server thread/INFO]: Sukistron lost connection: Disconnected
+[22:40:15] [Server thread/INFO]: Sukistron left the game
+[22:40:19] [Server thread/INFO]: Sukistron[/127.58.228.122:58157] logged in with entity id 10602 at (275.4033938369047, 166.0, -310.69999998807907)
+[22:40:19] [Server thread/INFO]: Sukistron joined the game
