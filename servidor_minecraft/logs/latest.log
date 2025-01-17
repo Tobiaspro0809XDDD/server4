@@ -255,3 +255,69 @@ Reason: Banned by an operator.
 [23:10:12] [Server thread/INFO]: [tobiaspro08: Set SoyMrZaki's game mode to Survival Mode]
 [23:10:49] [Server thread/INFO]: [SoyMrZaki: Set own game mode to Creative Mode]
 [23:10:55] [Server thread/INFO]: [MPV1014: Set own game mode to Creative Mode]
+[23:14:44] [Server thread/INFO]: [tobiaspro08: Set SoyMrZaki's game mode to Survival Mode]
+[23:14:49] [Server thread/INFO]: [tobiaspro08: Set MPV1014's game mode to Survival Mode]
+[23:14:56] [Server thread/INFO]: [SoyMrZaki: Set own game mode to Creative Mode]
+[23:15:02] [Server thread/INFO]: [MPV1014: Set own game mode to Creative Mode]
+[23:15:36] [Server thread/INFO]: [tobiaspro08: Set MPV1014's game mode to Survival Mode]
+[23:15:38] [Server thread/INFO]: [tobiaspro08: Set SoyMrZaki's game mode to Survival Mode]
+[23:15:57] [Server thread/INFO]: SoyMrZaki has made the advancement [Hot Stuff]
+[23:16:18] [Server thread/INFO]: [tobiaspro08: Set Sukistron's game mode to Survival Mode]
+[23:16:21] [Server thread/INFO]: [SoyMrZaki: Set own game mode to Creative Mode]
+[23:16:31] [Server thread/INFO]: [Sukistron: Set own game mode to Creative Mode]
+[23:16:37] [Server thread/INFO]: [Sukistron: Teleported Sukistron to tobiaspro08]
+[23:16:42] [Server thread/INFO]: [Sukistron: Teleported Sukistron to tobiaspro08]
+[23:16:42] [Server thread/INFO]: [tobiaspro08: Set Sukistron's game mode to Survival Mode]
+[23:16:49] [Server thread/INFO]: [Sukistron: Teleported Sukistron to tobiaspro08]
+[23:16:52] [Server thread/INFO]: [tobiaspro08: Kicked SoyMrZaki: Kicked by an operator]
+[23:16:52] [Server thread/INFO]: SoyMrZaki lost connection: Kicked by an operator
+[23:16:52] [Server thread/INFO]: SoyMrZaki left the game
+[23:16:55] [Server thread/INFO]: [Sukistron: Teleported Sukistron to tobiaspro08]
+[23:16:58] [Server thread/INFO]: SoyMrZaki[/127.208.88.138:50841] logged in with entity id 15079 at (274.672470277291, 167.0, -310.69999998807907)
+[23:16:58] [Server thread/INFO]: SoyMrZaki joined the game
+[23:17:10] [Server thread/INFO]: [SoyMrZaki: Banned tobiaspro08: Banned by an operator.]
+[23:17:10] [Server thread/INFO]: tobiaspro08 lost connection: You are banned from this server
+[23:17:10] [Server thread/INFO]: tobiaspro08 left the game
+[23:17:12] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4f1f6b6c[id=a4e5761f-fe69-35fc-8060-a234826abde7,name=tobiaspro08,properties={},legacy=false] (/127.58.228.122:51483): You are banned from this server.
+Reason: Banned by an operator.
+[23:17:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f1f6b6c[id=a4e5761f-fe69-35fc-8060-a234826abde7,name=tobiaspro08,properties={},legacy=false] (/127.58.228.122:51483) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[23:17:29] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5845817d[id=a4e5761f-fe69-35fc-8060-a234826abde7,name=tobiaspro08,properties={},legacy=false] (/127.58.228.122:57929): You are banned from this server.
+Reason: Banned by an operator.
+[23:17:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@5845817d[id=a4e5761f-fe69-35fc-8060-a234826abde7,name=tobiaspro08,properties={},legacy=false] (/127.58.228.122:57929) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[23:17:30] [Server thread/INFO]: MPV1014 fell from a high place
+[23:17:31] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2e806f5a[id=a4e5761f-fe69-35fc-8060-a234826abde7,name=tobiaspro08,properties={},legacy=false] (/127.58.228.122:53823): You are banned from this server.
+Reason: Banned by an operator.
+[23:17:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@2e806f5a[id=a4e5761f-fe69-35fc-8060-a234826abde7,name=tobiaspro08,properties={},legacy=false] (/127.58.228.122:53823) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[23:17:37] [Server thread/INFO]: SoyMrZaki lost connection: Disconnected
+[23:17:37] [Server thread/INFO]: SoyMrZaki left the game
+[23:17:46] [Server thread/INFO]: [MPV1014: Set own game mode to Creative Mode]
+[23:17:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:17:50] [Server thread/INFO]: /ban<--[HERE]
+[23:17:58] [Server thread/INFO]: Banned SoyMrZaki: Banned by an operator.
+[23:18:01] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@8e90989[id=a4e5761f-fe69-35fc-8060-a234826abde7,name=tobiaspro08,properties={},legacy=false] (/127.58.228.122:54087): You are banned from this server.
+Reason: Banned by an operator.
+[23:18:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@8e90989[id=a4e5761f-fe69-35fc-8060-a234826abde7,name=tobiaspro08,properties={},legacy=false] (/127.58.228.122:54087) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[23:18:09] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@24eb7fa2[id=04fcd958-7f7f-3823-ace3-d4ad268fd58b,name=SoyMrZaki,properties={},legacy=false] (/127.208.88.138:59141): You are banned from this server.
+Reason: Banned by an operator.
+[23:18:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@24eb7fa2[id=04fcd958-7f7f-3823-ace3-d4ad268fd58b,name=SoyMrZaki,properties={},legacy=false] (/127.208.88.138:59141) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[23:18:09] [Server thread/INFO]: Unbanned tobiaspro08
+[23:18:12] [Server thread/INFO]: tobiaspro08[/127.58.228.122:48843] logged in with entity id 15294 at (276.23031384037773, 163.18499547693278, -304.30000001192093)
+[23:18:12] [Server thread/INFO]: tobiaspro08 joined the game
+[23:18:16] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@50ce0134[id=04fcd958-7f7f-3823-ace3-d4ad268fd58b,name=SoyMrZaki,properties={},legacy=false] (/127.208.88.138:44715): You are banned from this server.
+Reason: Banned by an operator.
+[23:18:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@50ce0134[id=04fcd958-7f7f-3823-ace3-d4ad268fd58b,name=SoyMrZaki,properties={},legacy=false] (/127.208.88.138:44715) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[23:18:19] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@71ebdc7e[id=04fcd958-7f7f-3823-ace3-d4ad268fd58b,name=SoyMrZaki,properties={},legacy=false] (/127.208.88.138:48419): You are banned from this server.
+Reason: Banned by an operator.
+[23:18:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@71ebdc7e[id=04fcd958-7f7f-3823-ace3-d4ad268fd58b,name=SoyMrZaki,properties={},legacy=false] (/127.208.88.138:48419) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[23:18:34] [Server thread/INFO]: [tobiaspro08: Unbanned SoyMrZaki]
+[23:18:40] [Server thread/INFO]: [Sukistron: Set own game mode to Creative Mode]
+[23:18:53] [Server thread/INFO]: SoyMrZaki[/127.208.88.138:59471] logged in with entity id 15400 at (286.585119532741, 166.3372169977193, -307.17910253810294)
+[23:18:53] [Server thread/INFO]: SoyMrZaki joined the game
+[23:21:02] [Server thread/WARN]: tobiaspro08 moved too quickly! -0.019759549115860864,-11.185464808788282,0.0
